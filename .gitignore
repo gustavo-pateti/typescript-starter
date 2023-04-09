@@ -1,0 +1,25 @@
+# Node.js related files
+node_modules/
+npm-debug.log
+
+# IDE and text editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Compiled output
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Other
+.DS_Store
+Thumbs.db
